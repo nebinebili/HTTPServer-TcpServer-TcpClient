@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HttpServerr",
+    "\\HttpServerr\\cs_TcpClient",
+    "\\HttpServerr\\cs_TcpListener"
+  ],
+  "SelectedNode": "\\HttpServerr\\cs_TcpListener\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
